@@ -2,7 +2,7 @@
  <h1>
    Ygor Thiago Farias
   <br />
-  <a href="https://linkedin.com/in/ygorthiago" target="blank">
+  <a href="https://linkedin.com/in/ygorthiago" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ygorthiago" height="20" width="20" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:ygorthiagof@gmail.com" target="blank">
