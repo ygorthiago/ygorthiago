@@ -23,7 +23,7 @@
 
   <img align="right" alt="GIF" src="https://media2.giphy.com/media/bAplZhiLAsNnG/giphy.gif?cid=ecf05e47o3a8i5qebp7eflodprr1nuqc2uyy5w9g3zs1yhhy&rid=giphy.gif" width="350"/>  
   
-  ### I'm a developer, QA and I use AI to create chatbots.
+  ### I'm a front-end developer.
 
   💻 Enthusiast of the best web and mobile development technologies.
 
