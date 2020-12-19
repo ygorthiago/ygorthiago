@@ -3,17 +3,14 @@
    Ygor Thiago Farias
   <br />
   <a href="https://linkedin.com/in/ygorthiago" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ygorthiago" height="20" width="20" />
+    <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="ygorthiago" height="20" width="20" />   
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:ygorthiagof@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="ygorthiago" height="20" width="20" />
+    <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="ygorthiago" height="20" width="20" />
   </a>&nbsp;&nbsp;&nbsp;
    <a href="https://api.whatsapp.com/send?phone=5571991381383&lang=en" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="ygorthiago" height="20" width="20" />
-  </a>&nbsp;&nbsp;&nbsp;   
-  <a href="https://instagram.com/ygu_u" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ygorthiago" height="20" width="20" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/733/733585.svg" alt="ygorthiago" height="20" width="20" />
+  </a>
 
  </h1>
 
@@ -47,13 +44,9 @@
 
 <br />
 
-
-
-<details> 
-  <summary>🔎 Github stats </summary>
+ **🔎 Github stats**
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorthiago&layout=compact&theme=dark" width="400px"/> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorthiago&layout=compact&theme=dracula" width="400px" height="157px"/> 
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ygorthiago&show_icons=true&theme=dark" width="400px"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ygorthiago&show_icons=true&theme=dracula" width="400px"/>
 
-</details>
