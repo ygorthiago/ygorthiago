@@ -18,7 +18,7 @@
 </div>
 
 
-  <img align="right" alt="GIF" src="https://i.ibb.co/ZfVnpqm/coding.gif" width="350"/>  
+  <img align="right" alt="GIF" src="https://i.ibb.co/94gG3Jg/1616084522477.gif" width="350"/>  
   
   ### I'm a front-end developer.
 
