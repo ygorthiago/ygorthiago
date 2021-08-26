@@ -5,10 +5,10 @@
   <a href="https://linkedin.com/in/ygorthiago" target="_blank">
     <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="ygorthiago" height="20" width="20" />   
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ygorthiagof@gmail.com" target="blank">
+  <a href="mailto:ygorthiagof@gmail.com" target="_blank">
     <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="ygorthiago" height="20" width="20" />
   </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://api.whatsapp.com/send?phone=5571991381383&lang=en" target="blank">
+   <a href="https://api.whatsapp.com/send?phone=557191381383&lang=en" target="_blank">
     <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/733/733585.svg" alt="ygorthiago" height="20" width="20" />
   </a>
 
