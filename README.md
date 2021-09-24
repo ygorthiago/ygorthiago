@@ -48,7 +48,7 @@
 
  **🔎 Github stats**
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorthiago&layout=compact&theme=dracula" width="400px" height="157px"/> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorthiago&layout=compact&theme=dark" width="400px" height="157px"/> 
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ygorthiago&show_icons=true&theme=dracula&count_private=true" width="400px"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ygorthiago&show_icons=true&theme=dark&count_private=true" width="400px"/>
 
