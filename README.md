@@ -20,14 +20,7 @@
 
   <img align="right" alt="GIF" src="https://i.ibb.co/94gG3Jg/1616084522477.gif" width="400"/>  
   
-  ### I'm a Software Engineer focused on web and mobile development.
-
-  💻 Enthusiast of the best web and mobile development technologies.
-
-  📚 Always in search of knowledge.
-
-  ☕ Passionate about technology, games, music and coffee.
-
+  ### I'm a software engineer focused on web and mobile development, collaborating with high-impact front-end solutions to customers around the world.
 
 <br />
 
