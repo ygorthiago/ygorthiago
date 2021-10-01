@@ -24,7 +24,7 @@
 
 <br />
 
-**🚀 Stacks** 
+**Stacks** 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
@@ -39,7 +39,7 @@
 
 <br />
 
- **🔎 Github stats**
+ **Github stats**
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorthiago&layout=compact&theme=dark" width="400px" height="157px"/> 
   
