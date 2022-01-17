@@ -20,11 +20,10 @@
 
   <img align="right" alt="GIF" src="https://i.ibb.co/94gG3Jg/1616084522477.gif" width="400"/>  
   
-  ### I'm a software engineer focused on web and mobile development, collaborating with high-impact solutions to customers around the world.
+  #### I'm a software engineer focused on web and mobile development, collaborating with high-impact solutions to customers around the world. Building the future of digital payments globally.
+  #### Passionate about technology, games, music, movies and coffee.
 
-<br />
-
-**Stacks** 
+### Main Technologies
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
@@ -36,9 +35,7 @@
  
 </p>
 
-<br />
-
- **Github stats**
+ ### Github stats
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorthiago&layout=compact&theme=dark" width="390px" height="155px"/> 
   
