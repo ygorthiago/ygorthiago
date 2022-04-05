@@ -12,7 +12,7 @@
   
   <img align="right" alt="GIF" src="https://i.ibb.co/94gG3Jg/1616084522477.gif" width="400"/>  
  
- #### I'm a software engineer focused on web and mobile development, collaborating with high-impact solutions to customers around the world. Building the future of digital payments globally.
+ #### I'm a software engineer focused on web and mobile development, collaborating with high-impact solutions to customers around the world.
   #### Passionate about technology, games, music, movies and coffee. 
   
 </section>
