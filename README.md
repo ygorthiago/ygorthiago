@@ -9,11 +9,10 @@
    <a href="https://api.whatsapp.com/send?phone=557191381383&lang=en" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="20" width="20" />
   </a>
-  
-  <img align="right" alt="GIF" src="https://i.ibb.co/94gG3Jg/1616084522477.gif" width="400"/>  
- 
- #### I'm a software engineer focused on web and mobile development, collaborating with high-impact solutions to customers around the world.
-  #### Passionate about technology, games, music, movies and coffee. 
+  <div>
+     <h4> I'm a software engineer focused on web and mobile development,</br> collaborating with high-impact solutions to customers around the world.</h4>
+     <h4> Passionate about technology, games, music, movies and coffee. </h4>
+ </div>
   
 </section>
   
