@@ -9,10 +9,11 @@
    <a href="https://api.whatsapp.com/send?phone=557191381383&lang=en" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="20" width="20" />
   </a>
-  <div>
-     <h4> I'm a software engineer focused on web and mobile development,</br> collaborating with high-impact solutions to customers around the world.</h4>
-     <h4> Passionate about technology, games, music, movies and coffee. </h4>
- </div>
+  
+  <img align="right" alt="GIF" src="https://i.ibb.co/94gG3Jg/1616084522477.gif" width="400"/>  
+ 
+ #### I'm a software engineer focused on web and mobile development, collaborating with high-impact solutions to customers around the world.
+  #### Passionate about technology, games, music, movies and coffee. 
   
 </section>
   
@@ -35,9 +36,8 @@
 
  ### Github stats
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorthiago&layout=compact&theme=dark&exclude_repo=cyberpunk-game" width="390px" height="155px"/> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorthiago&layout=compact&theme=dark&exclude_repo=cyberpunk-game" width="390px" height="150px"/> 
   
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ygorthiago&show_icons=true&theme=dark&count_private=true" width="390px"/>
  
  </section>
-
