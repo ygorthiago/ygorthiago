@@ -6,7 +6,7 @@
   <a href="mailto:ygorthiagof@gmail.com" target="_blank">
     <img align="center" src="https://i.ibb.co/6DVQrFW/gmail-icon.png" alt="E-mail" height="20" width="20" />
   </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://api.whatsapp.com/send?phone=557191381383&lang=en" target="_blank">
+   <a href="https://api.whatsapp.com/send?phone=31627620286&lang=en" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="20" width="20" />
   </a>
   
