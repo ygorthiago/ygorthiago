@@ -1,6 +1,6 @@
   <h1>Ygor Thiago Farias</h1>
   <section>
-  <a href="https://linkedin.com/in/ygorthiago" target="_blank">
+  <a href="https://linkedin.com/in/ygortfarias" target="_blank">
     <img align="center" src="https://i.ibb.co/HHvw15g/linkedin-icon.png" alt="LinkedIn" height="20" width="20" />   
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:ygorthiagof@gmail.com" target="_blank">
