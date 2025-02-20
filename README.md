@@ -5,8 +5,10 @@
 
 <img align="right" alt="GIF" src="https://i.ibb.co/94gG3Jg/1616084522477.gif" width="300" />
 
-I'm a software engineer focused on web and mobile development. 
-With expertise in React, React Native, and TypeScript, 
+I'm a software engineer focused on frontend development. 
+<br />
+With expertise in the web ecosystem, React, and TypeScript,
+<br />
 I transform ideas into high-performance, scalable applications ready for the future.
 
 Passionate about technology, games, music, movies and coffee.   
