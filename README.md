@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ygortfarias/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ygorthiagof@gmail.com)
 
-<img align="right" alt="GIF" src="https://i.ibb.co/94gG3Jg/1616084522477.gif"  />  
+<img align="right" alt="GIF" src="https://i.ibb.co/94gG3Jg/1616084522477.gif" width="300" />
 
 I'm a software engineer focused on web and mobile development. 
 With expertise in React, React Native, and TypeScript, 
